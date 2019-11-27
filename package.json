@@ -1,5 +1,5 @@
 {
-  "name": "brex",
+  "name": "qs",
   "version": "1.0.0",
   "description": "CLI for bootstrapping websites",
   "main": "index.js",
@@ -15,5 +15,8 @@
     "inquirer": "^7.0.0",
     "shelljs": "^0.8.3",
     "simple-git": "^1.126.0"
+  },
+  "bin": {
+    "qs": "./index.js"
   }
 }
