@@ -1,0 +1,19 @@
+{
+  "name": "brex",
+  "version": "1.0.0",
+  "description": "CLI for bootstrapping websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "shelljs": "^0.8.3",
+    "simple-git": "^1.126.0"
+  }
+}
