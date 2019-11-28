@@ -4,9 +4,9 @@ Little CLI to bootstrap projects quickly. Currently has 3 x cusom starters as we
 
 
 ### Install
-`npm i -g @im/qs`
+`npm i -g im-qs`
 
 Clone this repo, run `npm link`
 
 ## Usage
-`$ qs` then follow the prompts 
+`$ im-qs` then follow the prompts 
